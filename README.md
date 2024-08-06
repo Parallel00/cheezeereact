@@ -1,2 +1,5 @@
-# cheezeereact
-submission
+### Initialization
+
+```
+npm install && npm start
+```
